@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ALveeSixNine/ALvee69
+		"url": "https://github.com/ALveeSixNine/ALvee69"
 	},
 	"keywords": [
 		"bot",
@@ -27,7 +27,7 @@
 	"bugs": {
 		"url": "https://github.com/ALveeSixNine/ALvee69/issues"
 	},
-	"homepage": "https://github.com/ALveeSixNine/ALvee69,
+	"homepage": "https://github.com/ALveeSixNine/ALvee69"
 	"dependencies": {
 		"@maihuybao/fca-unofficial": "^1.3.13-2",
 		"@miraipr0ject/assets": "",
